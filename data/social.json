@@ -3,12 +3,12 @@
     {
       "name": "Facebook",
       "url": "https://www.facebook.com/oooooooooooojavier.jardorosas/",
-      "image": "../static/images/social/twitter.svg"
+      "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
       "url": "https://github.com/FranciscoJardon",
-      "image": "../static/images/social/twitter.svg"
+      "image": "images/social/twitter.svg"
     }
   ]
 }
