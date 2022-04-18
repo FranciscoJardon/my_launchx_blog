@@ -1,7 +1,7 @@
 ---
-title: "Resultados de la semana 1"
-date: 2022-04-18T18:16:21-03:32
-description: 'Este es mi Segundo post de la travesía en la Misión de Backend con Node JS de Launch X.'
+title: "Título de tu blog post"
+date: 2022-03-01
+description: 'Descripción de tu blog post'
 ---
 
-holaaaaaa
+Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
