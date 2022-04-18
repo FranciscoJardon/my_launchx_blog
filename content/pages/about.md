@@ -5,13 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Desarrollador web y de aplicaciones
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a poder encontrar información sobre mi.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Inicié en la programación cuando tenía 15 años, desde muy chico me ha gustado todo lo que tiene que ver con tecnologia. 
+> He desarrollado diversas págias y aplicaciones, algunas por gusto propio y otras por engargo de algunos clientes. 
+> Actualmente tengo 18 años y me gustaría seguirme dedicando al desarrollo web y de aplicaciones porque  algo  que realmente me gusta hacer.
 
 **Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
 virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
